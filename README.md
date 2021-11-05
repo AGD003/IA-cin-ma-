@@ -1,2 +1,2 @@
-# IA-cin-ma-
+# IA-cinema
 Codé une IA en python pour prédir les sentiments sur les avis de films 
